@@ -20,3 +20,9 @@ eMeds is an Android medicine review app that aims to help users make informed ju
 ![7](https://github.com/pillaiganeshmohan/eMeds/assets/68379838/6acddec5-5d79-42d9-adee-6990793bdb77)
 
 ![8](https://github.com/pillaiganeshmohan/eMeds/assets/68379838/fc6bb5bc-53a7-440c-b403-99150705d6b5)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **BSD 2-Clause "Simplified" License**. See the [LICENSE](./LICENSE) file for details.
